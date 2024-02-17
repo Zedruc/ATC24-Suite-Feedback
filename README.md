@@ -13,13 +13,14 @@ It greatly aids the development.
 ## Features
 
 ### Flight Strip Management
-ATC24-Suite allows to swiftly create, manage and delete flight strips by utilising intuitive keybinds.
+ATC24-Suite enables you to swiftly create, manage and delete flight strips by utilising intuitive keybinds.
 
 ### Built-In Ground Chart
 The Suite automatically loads the correct aerodrome ground chart based on your airport selection.
 
 ### Custom Radar Screen
-With the help of the Custom Radar, which is constantly updated with aerodrome data such as Runways, Cities, surrounding Terrain and [more to come](#Roadmap), your situational awareness is greatly improved, aiding you with descending traffic and vectoring them in for approach.
+With the help of the Custom Radar, which is constantly updated with aerodrome data such as Runways, Cities, surrounding Terrain and [more to come](#Roadmap), your situational awareness is greatly improved, aiding you with descending traffic and vectoring them in for approach.  
+
 ## Roadmap
 
 This roadmap displays future updates and planned features.
