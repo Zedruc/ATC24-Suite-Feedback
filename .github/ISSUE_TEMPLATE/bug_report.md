@@ -1,18 +1,31 @@
-Issue tracker is **ONLY** used for reporting bugs.
-<!--- Provide a general summary of the issue in the Title above -->
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-## Expected Behavior
-<!--- Tell us what should happen -->
+---
 
-## Current Behavior
-<!--- Tell us what happens instead of the expected behavior -->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## Steps to Reproduce
-<!--- Describe what you did to come across this issue -->
-1.
-2.
-3.
-4.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## Description
-<!--- Provide a detailed description of the change or addition you are proposing -->
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. Windows 10]
+ - Browser [e.g. chrome, safari]
+
+**Additional context**
+Add any other context about the problem here.
