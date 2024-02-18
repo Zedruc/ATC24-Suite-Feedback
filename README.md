@@ -4,8 +4,8 @@ An All-in-One solution for ATC24 controllers.
 
 
 ## Issues & Suggestions
-If you wish to report any bugs or want to give feedback you are very welcome to do so!  
-It greatly aids the development.
+If you wish to report any bugs or want to give feedback, you are very welcome to do so!  
+It greatly aids development.
 
     1. Open an issue and tag it either `Bug Report` or `Feedback`
     2. Describe the issue as well as possible
@@ -33,6 +33,27 @@ Completing Data for the Radar for every airport
 `Status: -`  
 Adding a built-in ATIS generator using official ATC24 formats
 
-### [M3 - [RADAR] Waypoints and Routings ]()
+### [M3 - [RADAR] Waypoints and Routings]()
 `Status: -`  
 Adding official Waypoints and SID/STAR Routings to the Radar screen
+
+### [M4 - [GENERAL] ATC Session Sharing]()  
+`Status: -`  
+Allowing controllers to verify with Discord and open a room to share with other users (e.g. Ground/Tower split Operations)
+
+### [M5 - [RADAR] Injecting live ATC24 Traffic]()  
+`Status: -`  
+`NOTE: This will only be doable when cooperation with ATC24 developers is possible`  
+If possible, display aircraft, flying in your airspace, on ATC24, on the radar including:
+- Heading
+- Altitude
+- Airspeed
+
+### [M6 - [GENERAL] Live Flightplan Manager]()  
+`Status: -`  
+`NOTE: This will only be doable when cooperation with ATC24 developers is possible`  
+If possible, automatically make flightplans, which include your aerodrome, pop up in your ATC24-Suite allowing you to make amendments as required
+
+### [M7 - [GENERAL] Sounds]()  
+`Status: -`  
+Adding sounds to the ATC24-Suite to make it feel more lively and responsive
