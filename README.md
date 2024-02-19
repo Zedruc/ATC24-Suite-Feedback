@@ -26,23 +26,23 @@ With the help of the Custom Radar, which is constantly updated with aerodrome da
 This roadmap displays future updates and planned features.
 
 ### [M1 - [RADAR] Airport and weather information]()
-`Status: In Preparation`  
+![`Status Badge`](https://img.shields.io/badge/status-done-lightgreen)  
 Completing Data for the Radar for every airport
 
 ### [M2 - [GENERAL] ATC24 ATIS Generator]()
-`Status: -`  
+![`Status Badge`](https://img.shields.io/badge/status-planned-grey)  
 Adding a built-in ATIS generator using official ATC24 formats
 
 ### [M3 - [RADAR] Waypoints and Routings]()
-`Status: -`  
+![`Status Badge`](https://img.shields.io/badge/status-planned-grey)  
 Adding official Waypoints and SID/STAR Routings to the Radar screen
 
 ### [M4 - [GENERAL] ATC Session Sharing]()  
-`Status: -`  
+![`Status Badge`](https://img.shields.io/badge/status-in_preparation-orange)  
 Allowing controllers to verify with Discord and open a room to share with other users (e.g. Ground/Tower split Operations)
 
 ### [M5 - [RADAR] Injecting live ATC24 Traffic]()  
-`Status: -`  
+![`Status Badge`](https://img.shields.io/badge/status-planned-grey)  
 `NOTE: This will only be doable when cooperation with ATC24 developers is possible`  
 If possible, display aircraft, flying in your airspace, on ATC24, on the radar including:
 - Heading
@@ -50,10 +50,10 @@ If possible, display aircraft, flying in your airspace, on ATC24, on the radar i
 - Airspeed
 
 ### [M6 - [GENERAL] Live Flightplan Manager]()  
-`Status: -`  
+![`Status Badge`](https://img.shields.io/badge/status-planned-grey)  
 `NOTE: This will only be doable when cooperation with ATC24 developers is possible`  
 If possible, automatically make flightplans, which include your aerodrome, pop up in your ATC24-Suite allowing you to make amendments as required
 
 ### [M7 - [GENERAL] Sounds]()  
-`Status: -`  
+![`Status Badge`](https://img.shields.io/badge/status-planned-grey)  
 Adding sounds to the ATC24-Suite to make it feel more lively and responsive
