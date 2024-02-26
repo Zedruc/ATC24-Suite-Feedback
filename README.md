@@ -30,7 +30,7 @@ This roadmap displays future updates and planned features.
 Completing Data for the Radar for every airport
 
 ### [M2 - [GENERAL] ATC24 ATIS Generator]()
-![`Status Badge`](https://img.shields.io/badge/status-planned-grey)  
+![`Status Badge`](https://img.shields.io/badge/status-in_preparation-orange)  
 Adding a built-in ATIS generator using official ATC24 formats
 
 ### [M3 - [RADAR] Waypoints and Routings]()
@@ -38,7 +38,7 @@ Adding a built-in ATIS generator using official ATC24 formats
 Adding official Waypoints and SID/STAR Routings to the Radar screen
 
 ### [M4 - [GENERAL] ATC Session Sharing]()  
-![`Status Badge`](https://img.shields.io/badge/status-in_preparation-orange)  
+![`Status Badge`](https://img.shields.io/badge/status-done-lightgreen)  
 Allowing controllers to verify with Discord and open a room to share with other users (e.g. Ground/Tower split Operations)
 
 ### [M5 - [RADAR] Injecting live ATC24 Traffic]()  
