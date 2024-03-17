@@ -30,7 +30,7 @@ This roadmap displays future updates and planned features.
 Completing Data for the Radar for every airport
 
 ### [M2 - [GENERAL] ATC24 ATIS Generator]()
-![`Status Badge`](https://img.shields.io/badge/status-in_preparation-orange)  
+![`Status Badge`](https://img.shields.io/badge/status-done-lightgreen)  
 Adding a built-in ATIS generator using official ATC24 formats
 
 ### [M3 - [RADAR] Waypoints and Routings]()
