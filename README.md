@@ -34,8 +34,9 @@ Completing Data for the Radar for every airport
 Adding a built-in ATIS generator using official ATC24 formats
 
 ### [M3 - [RADAR] Waypoints and Routings]()
-![`Status Badge`](https://img.shields.io/badge/status-planned-grey)  
-Adding official Waypoints and SID/STAR Routings to the Radar screen
+![`Status Badge`](https://img.shields.io/badge/status-partially%20implemented-violet)  
+Waypoints at all major airports have been added.  
+Todo: SID/STAR Routings
 
 ### [M4 - [GENERAL] ATC Session Sharing]()  
 ![`Status Badge`](https://img.shields.io/badge/status-done-lightgreen)  
